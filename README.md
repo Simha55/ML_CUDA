@@ -1,5 +1,3 @@
-Below is a **paper-style experimental README**, written like a **systems / performance evaluation section** you’d see in an academic paper or NVIDIA internal benchmark doc, **with a clear comparison table added**.
-You can paste this directly into `README.md`.
 
 ---
 
